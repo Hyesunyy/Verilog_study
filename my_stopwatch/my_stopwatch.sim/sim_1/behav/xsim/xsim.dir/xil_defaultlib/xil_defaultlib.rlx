@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Verilog/my_stopwatch/my_stopwatch.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Verilog/my_stopwatch/my_stopwatch.srcs/sim_1/new/my_stopwatch.v,1731309629,verilog,,,,my_stopwatch_tb,,,,,,,,
+C:/Verilog/my_stopwatch/my_stopwatch.srcs/sources_1/imports/new/led_7bit.v,1731299797,verilog,,C:/Verilog/my_stopwatch/my_stopwatch.srcs/sources_1/new/my_stopwatch.v,,led,,,,,,,,
+C:/Verilog/my_stopwatch/my_stopwatch.srcs/sources_1/new/my_stopwatch.v,1731309636,verilog,,C:/Verilog/my_stopwatch/my_stopwatch.srcs/sources_1/new/stopwatch_top.v,,my_stopwatch,,,,,,,,
+C:/Verilog/my_stopwatch/my_stopwatch.srcs/sources_1/new/stopwatch_top.v,1731296202,verilog,,C:/Verilog/my_stopwatch/my_stopwatch.srcs/sources_1/new/tick_gen.v,,stopwatch_top,,,,,,,,
+C:/Verilog/my_stopwatch/my_stopwatch.srcs/sources_1/new/tick_gen.v,1731303159,verilog,,C:/Verilog/my_stopwatch/my_stopwatch.srcs/sim_1/new/my_stopwatch.v,,tick_gen,,,,,,,,

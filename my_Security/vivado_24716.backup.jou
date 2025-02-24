@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Feb 18 19:52:56 2025
+# Process ID: 24716
+# Current directory: C:/Verilog/my_Security
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20536 C:\Verilog\my_Security\my_Security.xpr
+# Log file: C:/Verilog/my_Security/vivado.log
+# Journal file: C:/Verilog/my_Security\vivado.jou
+# Running On        :COMSYS01
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :13th Gen Intel(R) Core(TM) i7-13700
+# CPU Frequency     :2112 MHz
+# CPU Physical cores:16
+# CPU Logical cores :24
+# Host memory       :34020 MB
+# Swap memory       :23793 MB
+# Total Virtual     :57814 MB
+# Available Virtual :10308 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Verilog/my_Security/my_Security.xpr
+update_compile_order -fileset sources_1

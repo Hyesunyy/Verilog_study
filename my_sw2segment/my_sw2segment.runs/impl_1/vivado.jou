@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Feb 18 18:14:24 2025
+# Process ID: 24804
+# Current directory: C:/Verilog/my_sw2segment/my_sw2segment.runs/impl_1
+# Command line: vivado.exe -log sw2segment.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source sw2segment.tcl -notrace
+# Log file: C:/Verilog/my_sw2segment/my_sw2segment.runs/impl_1/sw2segment.vdi
+# Journal file: C:/Verilog/my_sw2segment/my_sw2segment.runs/impl_1\vivado.jou
+# Running On        :COMSYS01
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :13th Gen Intel(R) Core(TM) i7-13700
+# CPU Frequency     :2112 MHz
+# CPU Physical cores:16
+# CPU Logical cores :24
+# Host memory       :34020 MB
+# Swap memory       :22818 MB
+# Total Virtual     :56839 MB
+# Available Virtual :7636 MB
+#-----------------------------------------------------------
+source sw2segment.tcl -notrace

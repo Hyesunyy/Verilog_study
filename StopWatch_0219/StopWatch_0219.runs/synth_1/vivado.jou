@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Feb 20 20:17:46 2025
+# Process ID: 9568
+# Current directory: C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.runs/synth_1
+# Command line: vivado.exe -log stopwatch_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source stopwatch_top.tcl
+# Log file: C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.runs/synth_1/stopwatch_top.vds
+# Journal file: C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.runs/synth_1\vivado.jou
+# Running On        :COMSYS01
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :13th Gen Intel(R) Core(TM) i7-13700
+# CPU Frequency     :2112 MHz
+# CPU Physical cores:16
+# CPU Logical cores :24
+# Host memory       :34020 MB
+# Swap memory       :27917 MB
+# Total Virtual     :61937 MB
+# Available Virtual :22355 MB
+#-----------------------------------------------------------
+source stopwatch_top.tcl -notrace

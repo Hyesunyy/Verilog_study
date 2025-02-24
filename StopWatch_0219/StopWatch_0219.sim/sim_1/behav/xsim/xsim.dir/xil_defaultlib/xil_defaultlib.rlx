@@ -1,0 +1,14 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sim_1/new/hex2bcd_tb.v,1740016400,verilog,,,,hex2bcd_tb,,,,,,,,
+C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sim_1/new/pulse_10ms_tb.v,1740106413,verilog,,,,pulse_10ms_tb,,,,,,,,
+C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sim_1/new/w_control_1.v,1740109270,verilog,,,,w_control_1,,,,,,,,
+C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sim_1/new/watch_control_tb.v,1740108195,verilog,,,,watch_control_tb,,,,,,,,
+C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sim_1/new/watch_counter_tb.v,1740105471,verilog,,,,watch_counter_tb,,,,,,,,
+C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sources_1/new/display.v,1740034731,verilog,,C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sources_1/new/pulse_10ms.v,,hex2bcd,,,,,,,,
+C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sources_1/new/pulse_10ms.v,1740109946,verilog,,C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sources_1/new/watch_counter.v,,pulse_10ms,,,,,,,,
+C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sources_1/new/watch_control.v,1740109913,verilog,,C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sources_1/new/watch_counter.v,,watch_control,,,,,,,,
+C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sources_1/new/watch_counter.v,1740109952,verilog,,C:/Users/user/source/repos/Verilog_lab/StopWatch_0219/StopWatch_0219.srcs/sources_1/new/watch_control.v,,watch_counter,,,,,,,,
